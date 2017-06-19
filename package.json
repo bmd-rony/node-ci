@@ -1,0 +1,19 @@
+{
+  "name": "node-ci",
+  "version": "1.0.0",
+  "description": "node using continous integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "travis",
+    "mocha",
+    "nodejs"
+  ],
+  "author": "rony setyawan",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "3.4.2"
+  }
+}
